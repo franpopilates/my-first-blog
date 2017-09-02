@@ -25,7 +25,7 @@ SECRET_KEY = '-iynwr97&b7x=_d#ic5)mqel$)uaddww!nhhzd=^vbr=h&uj90'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['franpopilates.pythonanywhere.com']
+ALLOWED_HOSTS = ['franpopilates.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
